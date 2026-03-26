@@ -1,5 +1,5 @@
 ## Hey there 👋
-<!--
+
 I'm a CS student obsessed with building products that users actually love and use.
 
 💡 If an idea pops into my head, chances are I'll build it and ship it.
@@ -14,4 +14,4 @@ I'm a CS student obsessed with building products that users actually love and us
 - I have a cat
 - I love watching F1 (McLaren fan btw)
 - I love building cool things
--->
+
