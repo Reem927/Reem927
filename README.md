@@ -1,16 +1,17 @@
-## Hi there 👋
-
+## Hey there 👋
 <!--
-**Reem927/Reem927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student obsessed with building products that users actually love and use.
 
-Here are some ideas to get you started:
+💡 If an idea pops into my head, chances are I'll build it and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Currently working on **Nudge** — an AI-powered study companion.
+
+🛠️ My main stack is Next.js, TypeScript, Tailwind CSS, and Supabase. I also work with Python, C#, and dabble in AI/ML.
+
+📫 If you want to connect, find me on LinkedIn — link in my profile.
+
+**Fun Facts:**
+- I have a cat
+- I love watching F1 (McLaren fan btw)
+- I love building cool things
 -->
